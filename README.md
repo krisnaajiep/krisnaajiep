@@ -1,12 +1,12 @@
 # About Me
 
-I'm **Krisna Ajie**.
+I'm **Krisna Ajie**, a beginner in web development and programming.
 
-- 🌱 I’m currently learning backend development
+- 🌱 I’m currently learning Backend Development
 - 💬 Ask me about web development
 - 📫 How to reach me: krisnaajiep@gmail.com
 
-## Technologies and Tools
+## 🔧 Technologies and Tools
 <div style="display: inline">
   <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="HTML" title="HTML" width="50">
   <img src="https://www.svgrepo.com/show/353623/css-3.svg" alt="CSS" title="CSS" width="50">
@@ -18,5 +18,8 @@ I'm **Krisna Ajie**.
   <img src="https://www.svgrepo.com/show/354272/redis.svg" alt="Redis" title="Redis" width="50">
 </div>
 
-## Connect with Me
+## 📊 GitHub Stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=krisnaajiep&show_icons=true&theme=radical)
+
+## 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/krisna-ajie-prasetyo-250613171"><img src="https://www.svgrepo.com/show/452051/linkedin.svg" width="50"></a>
