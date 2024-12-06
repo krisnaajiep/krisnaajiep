@@ -6,6 +6,10 @@ I'm **Krisna Ajie**, a beginner in web development and programming.
 - 💬 Ask me about web development
 - 📫 How to reach me: krisnaajiep@gmail.com
 
+---
+> Every expert was once a beginner.
+— Helen Hayes
+
 ## 🔧 Technologies and Tools
 <div style="display: inline">
   <img src="https://github.com/user-attachments/assets/b79d4295-7479-42a3-b320-05367679d560" alt="HTML" title="HTML" width="50">
