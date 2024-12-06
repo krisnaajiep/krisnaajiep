@@ -1,6 +1,6 @@
 # About Me
 
-I'm **Krisna Ajie**, a passionate developer from 🇮🇩.
+I'm **Krisna Ajie**.
 
 - 🌱 I’m currently learning backend development
 - 💬 Ask me about web development
