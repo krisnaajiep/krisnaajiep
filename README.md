@@ -1,8 +1,8 @@
 # About Me
 
-I'm **Krisna Ajie**, a beginner in web development and programming.
+I'm **Krisna Ajie**, a beginner in backend development and programming.
 
-- 🌱 I’m currently learning Backend Development
+- 🌱 I’m currently learning Git and Github
 - 💬 Ask me about web development
 - 📫 How to reach me: krisnaajiep@gmail.com
 
