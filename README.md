@@ -6,10 +6,6 @@ I'm **Krisna Ajie**, a beginner in web development and programming.
 - 💬 Ask me about web development
 - 📫 How to reach me: krisnaajiep@gmail.com
 
----
-> Every expert was once a beginner.
-— Helen Hayes
-
 ## 🔧 Technologies and Tools
 <div style="display: inline">
   <img src="https://github.com/user-attachments/assets/b79d4295-7479-42a3-b320-05367679d560" alt="HTML" title="HTML" width="50">
@@ -27,3 +23,8 @@ I'm **Krisna Ajie**, a beginner in web development and programming.
 
 ## 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/krisna-ajie-prasetyo-250613171"><img src="https://github.com/user-attachments/assets/409aa4f0-6ee3-4ad7-9349-98441dc0332c" width="50"></a>
+
+---
+> Every expert was once a beginner.
+
+— Helen Hayes
