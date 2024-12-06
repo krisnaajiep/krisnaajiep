@@ -5,7 +5,6 @@ I'm **Krisna Ajie**.
 - 🌱 I’m currently learning backend development
 - 💬 Ask me about web development
 - 📫 How to reach me: krisnaajiep@gmail.com
-- 😄 Pronouns: He/Him
 
 ## Technologies and Tools
 <div style="display: inline">
