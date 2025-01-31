@@ -15,7 +15,6 @@ I'm **Krisna Ajie**, a beginner in backend development and programming.
   <img src="https://github.com/user-attachments/assets/1eff9430-d506-4555-9f23-46ca9ab6d674" alt="Laravel" title="Laravel" width="50">
   <img src="https://github.com/user-attachments/assets/46e652a8-12dc-4bc1-aec9-7c038d9de5e1" alt="Git" title="Git" width="50">
   <img src="https://github.com/user-attachments/assets/0cb595bf-85d5-4f0d-b4a1-648e61035f4c" alt="MySQL" title="MySQL" width="50">
-  <img src="https://github.com/user-attachments/assets/3d8f0558-a093-46fa-9ccc-bd960cb09861" alt="Redis" title="Redis" width="50">
 </div>
 
 ## 📊 GitHub Stats
