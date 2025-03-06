@@ -7,6 +7,7 @@ I'm **Krisna Ajie**, a beginner in backend development and programming.
 - 📫 How to reach me: krisnaajiep@gmail.com
 
 ## 🔧 Technologies and Tools
+
 <div style="display: inline">
   <img src="https://github.com/user-attachments/assets/b79d4295-7479-42a3-b320-05367679d560" alt="HTML" title="HTML" width="50">
   <img src="https://github.com/user-attachments/assets/500a6fc5-e9ec-4989-a969-b635e4c06fb4" alt="CSS" title="CSS" width="50">
@@ -20,12 +21,17 @@ I'm **Krisna Ajie**, a beginner in backend development and programming.
 </div>
 
 ## 📊 GitHub Stats
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=krisnaajiep&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisnaajiep&size_weight=0.5&count_weight=0.5)
+
 ## 🌐 Connect with Me
+
 <a href="https://www.linkedin.com/in/krisna-ajie-prasetyo-250613171"><img src="https://github.com/user-attachments/assets/409aa4f0-6ee3-4ad7-9349-98441dc0332c" width="50"></a>
 
 ---
+
 > Every expert was once a beginner.
 
 — Helen Hayes
