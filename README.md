@@ -22,6 +22,9 @@ I'm **Krisna Ajie**, a beginner in backend development and programming.
 
 ## 📊 GitHub Stats
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=krisnaajiep&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisnaajiep&size_weight=0.5&count_weight=0.5)
 
 ## 🌐 Connect with Me
 
