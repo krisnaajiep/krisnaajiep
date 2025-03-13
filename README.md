@@ -1,6 +1,6 @@
 # About Me
 
-I'm **Krisna Ajie**, a beginner in backend development and programming.
+I'm **Krisna Ajie**, a beginner in web and backend programming.
 
 - 🌱 I’m currently learning Caching and Redis
 - 💬 Ask me about web development
