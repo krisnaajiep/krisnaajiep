@@ -2,7 +2,7 @@
 
 I'm **Krisna Ajie**, a beginner in web and backend programming.
 
-- 🌱 I’m currently learning Caching and Redis
+- 🌱 I’m currently learning Web Security
 - 💬 Ask me about web development
 - 📫 How to reach me: krisnaajiep@gmail.com
 
