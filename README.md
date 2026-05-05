@@ -1,8 +1,8 @@
 # About Me
 
-I'm **Krisna Ajie**, a beginner in web and backend development.
+👋 I'm **Krisna Ajie**, A backend developer passionate about building robust systems that solve complex real-world problems.
 
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Software Design & Architecture
 - 💬 Ask me about backend development
 - 📫 How to reach me: krisnaajiep@gmail.com
 
@@ -11,7 +11,6 @@ I'm **Krisna Ajie**, a beginner in web and backend development.
 <div style="display: inline">
   <img src="https://github.com/user-attachments/assets/b79d4295-7479-42a3-b320-05367679d560" alt="HTML" title="HTML" width="50">
   <img src="https://github.com/user-attachments/assets/500a6fc5-e9ec-4989-a969-b635e4c06fb4" alt="CSS" title="CSS" width="50">
-  <img src="https://github.com/user-attachments/assets/af0f3101-e966-4b8b-b8ec-5f2bb6e902fe" alt="Bootstrap" title="Bootstrap" width="50">
   <img src="https://github.com/user-attachments/assets/c581f71c-f3e0-4d41-8791-0c383db8601a" alt="Javascript" title="Javascript" width="50">
   <img src="https://github.com/user-attachments/assets/86b4e539-20fa-403a-a648-c7251158b19a" alt="PHP" title="PHP" width="50">
   <img src="https://github.com/user-attachments/assets/1eff9430-d506-4555-9f23-46ca9ab6d674" alt="Laravel" title="Laravel" width="50">
@@ -26,11 +25,11 @@ I'm **Krisna Ajie**, a beginner in web and backend development.
   <img src="https://github.com/user-attachments/assets/32897ff3-f94c-4095-99fd-23bee51ff15c" alt="Docker" title="Docker" width="50">
 </div>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=krisnaajiep&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisnaajiep&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krisnaajiep&size_weight=0.5&count_weight=0.5) -->
 
 ## 🌐 Connect with Me
 
